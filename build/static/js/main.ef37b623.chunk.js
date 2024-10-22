@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{12:function(e,n,t){},13:function(e,n,t){"use strict";t.r(n);var o=t(0),a=t.n(o),r=t(2),l=t.n(r);var c=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Welcome to the Innovation Hub"),a.a.createElement("p",null,"This is where we innovate!"))};t(12);l.a.createRoot(document.getElementById("root")).render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(c,null)))},3:function(e,n,t){e.exports=t(13)}},[[3,1,2]]]);
+//# sourceMappingURL=main.ef37b623.chunk.js.map
